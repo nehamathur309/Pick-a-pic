@@ -1,0 +1,15 @@
+neha   :    123   :    nidhi    :   456
+   :   MARKS :0   : MIN : 1   : SEC : 14/n   :       :        :   
+   :   MARKS :51   : MIN : 2   : SEC : 49/nNEHA   :    123   :    NIDHI    :   456
+   :       :        :   
+   :   MARKS :3   : MIN : 1   : SEC : 16
+   :       :        :   
+   :   MARKS :10/n   :       :        :   
+   :   MARKS :0/nABC   :    123   :    DEF    :   456
+   :   MARKS :0/nNEHA   :    5465   :    SDDSL    :   5465677
+   :   MARKS :3   : MIN : 1   : SEC : 26
+   :       :        :   
+somi   :    777   :    neha    :   444
+   :       :        :   
+   :       :        :   
+   :   MARKS :12/n
